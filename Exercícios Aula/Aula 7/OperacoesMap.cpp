@@ -23,6 +23,7 @@ int main(){
 	map<string, int> mapa;
 	
 	mapa["a"] = 1;
+	mapa["a"] = 200;
 	
 	cout << mapa["a"] << endl;
 	
